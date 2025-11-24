@@ -1,0 +1,1 @@
+- This is a terminal application, use ./emulator <scale> <speed> <romfile>
